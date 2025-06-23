@@ -13,7 +13,7 @@ This project segments eating behaviors into four bio-psychological personas, bas
 - Kaggle (For the DataBase)
 
 ## 📷 Preview
-![Dashboard preview]("./food_personas.JPG")
+![Dashboard preview]("./food_personas.png")
 
 
 #food_personas
